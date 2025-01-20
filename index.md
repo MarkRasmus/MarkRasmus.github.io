@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Project 1: Building a SOC + Honeynet in Azure (Live Traffic)
+# Project 1: Building a SIEM + Honeynet in Azure (Live Traffic)
 
 ![Honeynet](Honeynet.png)
 
