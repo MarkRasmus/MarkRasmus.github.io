@@ -10,5 +10,4 @@ layout: default
 
 # Project 2: Inventory Management System using .NET and C#
 
-<img width="430" alt="image" src="https://github.com/user-attachments/assets/f9bdb59d-5dce-4882-98eb-3da00fcd2909" />
-
+<img width="728" alt="image" src="https://github.com/user-attachments/assets/2e72b4b6-bb85-4248-a93e-d527f54fa493" />
