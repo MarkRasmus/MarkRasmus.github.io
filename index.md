@@ -6,7 +6,7 @@ layout: default
 
 ![Honeynet](Honeynet.png)
 
-[Link to project page](./another-page.html).
+[Link to project page](https://github.com/MarkRasmus/SIEM-Honeynet-in-Azure).
 
 # Project 2: Inventory Management System using .NET and C#
 
