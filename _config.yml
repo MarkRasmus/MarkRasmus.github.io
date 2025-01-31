@@ -1,5 +1,4 @@
-description: A showcase of my cybersecurity and software development projects.  
+title: "My Project Portfolio"  
+description: "A showcase of my cybersecurity and software development projects."  
 show_downloads: false  
-google_analytics:  
-theme: jekyll-theme-cayman
-
+theme: jekyll-theme-dinky
