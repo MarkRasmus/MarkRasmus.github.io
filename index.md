@@ -2,12 +2,21 @@
 layout: default
 ---
 
-# Project 1: Building a SIEM + Honeynet in Azure (Live Traffic)
+# Building a SIEM + Honeynet in Azure (Live Traffic)
 
 ![Honeynet](Honeynet.png)
 
 [Link to project page](https://github.com/MarkRasmus/SIEM-Honeynet-in-Azure).
 
-# Project 2: Inventory Management System using .NET and C#
+# ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](https://github.com/MarkRasmus/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/MarkRasmus/programmatic-vulnerability-remediations)**
+
+# 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/MarkRasmus/threat-hunting-scenario-tor)**
+
+# Inventory Management System using .NET and C#
 
 <img width="728" alt="image" src="https://github.com/user-attachments/assets/2e72b4b6-bb85-4248-a93e-d527f54fa493" />
