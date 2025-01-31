@@ -2,12 +2,6 @@
 layout: default
 ---
 
-# Welcome to My Project Portfolio
-
-Here you can find a collection of my projects related to cybersecurity, vulnerability management, and software development. Each project is designed to showcase my skills and experience in these areas.
-
----
-
 ## 🛡️ Building a SIEM + Honeynet in Azure (Live Traffic)
 
 ![Honeynet](Honeynet.png)
