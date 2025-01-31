@@ -3,5 +3,5 @@ description: Here you can find a collection of my projects related to cybersecur
 show_downloads: False
 google_analytics:
 theme: jekyll-theme-hacker
-css: style.css
+css: /assets/css/style.css
 
