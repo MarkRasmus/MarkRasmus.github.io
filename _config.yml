@@ -1,6 +1,6 @@
-title: Welcome to My Project Portfolio
-description: Here you can find a collection of my projects related to cybersecurity and software development. Each project is designed to showcase my skills and experience in these areas.
-show_downloads: False
-google_analytics:
+title: My Project Portfolio  
+description: A showcase of my cybersecurity and software development projects.  
+show_downloads: false  
+google_analytics:  
 theme: jekyll-theme-minimal
 
