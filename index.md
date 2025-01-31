@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# My Project Portfolio
-
 ## 🛡️ Building a SIEM + Honeynet in Azure (Live Traffic)
 
 ![Honeynet](Honeynet.png)
